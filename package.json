@@ -2,9 +2,9 @@
   "name": "nitish-mayekar-server",
   "version": "1.0.0",
   "description": "Server Application for client",
-  "main": "server.js",
+  "main": "",
   "scripts": {
-    "start": "node server.js",
+    "start": "nodemon server.js",
     "test": "npm run test"
   },
   "author": "Nitish",
